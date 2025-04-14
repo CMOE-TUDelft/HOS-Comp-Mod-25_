@@ -1,8 +1,8 @@
 title: CIEM42X0-CM
 tagline: CIEM42X0-CM Computational Modelling
 description: Hydraulic and Offshore Structures track, Civil Engineering Program at TU Delft.
-baseurl: '/HOS-comp-mod-24'
-url: https://tudelft-citg.github.io
+baseurl: '/HOS-comp-mod-25_'
+url: https://cmoe-tudelft.github.io
 
 # Set a path/url to a logo that will be displayed instead of the title
 favicon_ico:: "favicon.ico"
